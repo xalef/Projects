@@ -1,0 +1,4 @@
+imutils
+argparse
+python-imagesearch
+opencv-python
